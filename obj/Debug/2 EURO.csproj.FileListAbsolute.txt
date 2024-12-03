@@ -1,0 +1,9 @@
+C:\Users\WIN\Desktop\2 EURO\2 EURO\bin\Debug\2 EURO.exe
+C:\Users\WIN\Desktop\2 EURO\2 EURO\bin\Debug\2 EURO.pdb
+C:\Users\WIN\Desktop\2 EURO\2 EURO\obj\Debug\2 EURO.csproj.AssemblyReference.cache
+C:\Users\WIN\Desktop\2 EURO\2 EURO\obj\Debug\2 EURO.csproj.CoreCompileInputs.cache
+C:\Users\WIN\Desktop\2 EURO\2 EURO\obj\Debug\2 EURO.exe
+C:\Users\WIN\Desktop\2 EURO\2 EURO\obj\Debug\2 EURO.pdb
+C:\Users\WIN\Desktop\2 EURO\2 EURO\bin\Debug\2 EURO.exe.config
+C:\Users\WIN\Desktop\2 EURO\2 EURO\obj\Debug\_2_EURO.Properties.Resources.resources
+C:\Users\WIN\Desktop\2 EURO\2 EURO\obj\Debug\2 EURO.csproj.GenerateResource.cache
